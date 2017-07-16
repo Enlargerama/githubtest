@@ -406,18 +406,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Textures
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Textures
   m_LastFoldersGridSize: 16
   m_LastProjectPath: F:\Dokumente\GitHub\githubtest\githubtest
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b4240000
-    m_LastClickedID: 9396
+    m_SelectedIDs: aa250000
+    m_LastClickedID: 9642
     m_ExpandedIDs: 00000000b424000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -562,7 +562,7 @@ MonoBehaviour:
     height: 645
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 88f8ffff
     m_LastClickedID: 0
     m_ExpandedIDs: e0fbffff00000000
     m_RenameOverlay:
@@ -648,9 +648,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.24665645, y: 0.2514441, z: -0.066434704, w: -0.93355405}
   m_Size:
-    m_Target: 10
+    m_Target: 7.9435906
     speed: 2
-    m_Value: 10
+    m_Value: 7.9435906
   m_Ortho:
     m_Target: 0
     speed: 2
