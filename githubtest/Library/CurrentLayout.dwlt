@@ -334,9 +334,15 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: ba240000
     m_LastClickedID: 9402
     m_ExpandedIDs: 00000000ba24000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: b2240000
+    m_LastClickedID: 9394
+    m_ExpandedIDs: 00000000b224000000ca9a3bffffff7f
+>>>>>>> refs/remotes/origin/master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -364,7 +370,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000ba240000
+=======
+    m_ExpandedIDs: 00000000b2240000
+>>>>>>> refs/remotes/origin/master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -480,9 +490,15 @@ MonoBehaviour:
     height: 645
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 6e250000
     m_LastClickedID: 9582
     m_ExpandedIDs: e0fbffff00000000
+=======
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: e2fbffff00000000
+>>>>>>> refs/remotes/origin/master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -562,6 +578,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: -0.23941782, y: 0.108085595, z: -0.026829883, w: -0.96450984}
     speed: 2
     m_Value: {x: -0.23941754, y: 0.10808547, z: -0.026829852, w: -0.9645087}
@@ -569,6 +586,15 @@ MonoBehaviour:
     m_Target: 10
     speed: 2
     m_Value: 10
+=======
+    m_Target: {x: -0.27222943, y: 0.062583506, z: -0.017746523, w: -0.9600321}
+    speed: 2
+    m_Value: {x: -0.27222914, y: 0.06258344, z: -0.017746504, w: -0.9600311}
+  m_Size:
+    m_Target: 7.2447534
+    speed: 2
+    m_Value: 7.2447534
+>>>>>>> refs/remotes/origin/master
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -601,10 +627,17 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 507
     y: 94
     width: 1532
     height: 790
+=======
+    x: 435
+    y: 92
+    width: 1312
+    height: 645
+>>>>>>> refs/remotes/origin/master
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -613,10 +646,17 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -766
     m_HBaseRangeMax: 766
     m_VBaseRangeMin: -386.5
     m_VBaseRangeMax: 386.5
+=======
+    m_HBaseRangeMin: -656
+    m_HBaseRangeMax: 656
+    m_VBaseRangeMin: -314
+    m_VBaseRangeMax: 314
+>>>>>>> refs/remotes/origin/master
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -633,16 +673,24 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
       width: 1532
       height: 773
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 766, y: 386.5}
+=======
+      width: 1312
+      height: 628
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 656, y: 314}
+>>>>>>> refs/remotes/origin/master
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -766
       y: -386.5
       width: 1532
@@ -652,6 +700,17 @@ MonoBehaviour:
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 1
   m_LastWindowPixelSize: {x: 1532, y: 790}
+=======
+      x: -656
+      y: -314
+      width: 1312
+      height: 628
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1312, y: 645}
+>>>>>>> refs/remotes/origin/master
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
