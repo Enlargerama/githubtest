@@ -1,10 +1,4 @@
 5.6.1f1:3.1.0.0
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-StandaloneWindows
-=======
->>>>>>> refs/remotes/origin/master
 StandaloneWindows
 C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
 C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
@@ -14,9 +8,4 @@ C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framew
 C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
 C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
 C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
-<<<<<<< HEAD
 C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll
-=======
-C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll
->>>>>>> refs/remotes/origin/ScriptTest
->>>>>>> refs/remotes/origin/master
