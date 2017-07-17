@@ -42,8 +42,18 @@ MonoBehaviour:
     y: 30
     width: 2194
     height: 1101
+<<<<<<< HEAD
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
+=======
+<<<<<<< HEAD
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+=======
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
+>>>>>>> refs/remotes/origin/ScriptTest
+>>>>>>> refs/remotes/origin/master
   vertical: 0
   controlID: 9
 --- !u!114 &3
@@ -324,19 +334,48 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
     - Assets
+=======
+<<<<<<< HEAD
+    - Assets/Textures
+  m_ViewMode: 1
+  m_StartGridSize: 16
+  m_LastFolders:
+  - Assets/Textures
+=======
+    - Assets/Scripts
+>>>>>>> refs/remotes/origin/master
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
   - Assets
   m_LastFoldersGridSize: -1
+=======
+  - Assets/Scripts
+>>>>>>> refs/remotes/origin/ScriptTest
+  m_LastFoldersGridSize: 16
+>>>>>>> refs/remotes/origin/master
   m_LastProjectPath: F:\Dokumente\GitHub\githubtest\githubtest
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: bc240000
     m_LastClickedID: 9404
     m_ExpandedIDs: 00000000bc24000000ca9a3bffffff7f
+=======
+<<<<<<< HEAD
+    m_SelectedIDs: 30250000
+    m_LastClickedID: 9520
+    m_ExpandedIDs: 00000000c424000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 9c250000
+    m_LastClickedID: 9628
+    m_ExpandedIDs: 00000000b024000000ca9a3bffffff7f
+>>>>>>> refs/remotes/origin/ScriptTest
+>>>>>>> refs/remotes/origin/master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -364,7 +403,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000bc240000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000c4240000
+=======
+    m_ExpandedIDs: 00000000b0240000
+>>>>>>> refs/remotes/origin/ScriptTest
+>>>>>>> refs/remotes/origin/master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -482,7 +529,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: defbffff00000000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: b4fbffff00000000
+=======
+    m_ExpandedIDs: e2fbffff00000000
+>>>>>>> refs/remotes/origin/ScriptTest
+>>>>>>> refs/remotes/origin/master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -562,13 +617,31 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+=======
+    m_Target: {x: -0.042253017, y: 0.045540687, z: -0.0019279601, w: -0.9980667}
+    speed: 2
+<<<<<<< HEAD
+    m_Value: {x: -0.24665645, y: 0.2514441, z: -0.066434704, w: -0.93355405}
+>>>>>>> refs/remotes/origin/master
   m_Size:
     m_Target: 10
     speed: 2
+<<<<<<< HEAD
     m_Value: 10
+=======
+    m_Value: 7.9435906
+=======
+    m_Value: {x: -0.042253014, y: 0.045540683, z: -0.0019279598, w: -0.9980666}
+  m_Size:
+    m_Target: 5.107395
+    speed: 2
+    m_Value: 5.107395
+>>>>>>> refs/remotes/origin/ScriptTest
+>>>>>>> refs/remotes/origin/master
   m_Ortho:
     m_Target: 0
     speed: 2
