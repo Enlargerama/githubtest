@@ -46,4 +46,8 @@ UnityVS/
 UnityVS.meta
 
 # Folders to keep
+<<<<<<< HEAD
 !Assets/Vendors/InControl/Source/Debug/
+=======
+!Assets/Vendors/InControl/Source/Debug/
+>>>>>>> refs/remotes/origin/master
